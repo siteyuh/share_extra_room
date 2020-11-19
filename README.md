@@ -17,8 +17,8 @@ PHEvのクルマから電源を取れるように考えています。
 PayPayを使い一口100円として入金してください（PayPayID: siteyuh）。
 
 ## ルーム予約
-ルーム予約は[次のサイトで](https://reserva.be/siteyuh)。  
-[https://reserva.be/siteyuh](https://reserva.be/siteyuh)
+ルーム予約は[次のサイトで](https://reserva.be/siteyuh){:target="_blank"}。  
+[https://reserva.be/siteyuh](https://reserva.be/siteyuh){:target="_blank"}
 
 ## ToDo
 
