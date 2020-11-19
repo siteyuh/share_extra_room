@@ -17,15 +17,15 @@ PHEvのクルマから電源を取れるように考えています。
 PayPayを使い一口100円として入金してください（PayPayID: siteyuh）。
 
 ## ルーム予約
-ルーム予約は[次のサイトで](https://reserva.be/siteyuh){:target="_blank"}。  
-[https://reserva.be/siteyuh](https://reserva.be/siteyuh){:target="_blank"}
+ルーム予約は[次のサイトで](https://reserva.be/siteyuh)。  
+[https://reserva.be/siteyuh](https://reserva.be/siteyuh)
 
 ## ToDo
 
 - [ ] このページのURLをQRコードに変換する
 - [ ] プリントして入り口の外ドアに貼る
 - [ ] <s>PayPayのQRコードを印刷してドアの内側に貼る</s>
-- [ ] 予約サイトのリンクを正しく書く
+- [x] 予約サイトのリンクを正しく書く
 
 ## 予約サイト
 - [x] 予約サイトを選択する
